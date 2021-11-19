@@ -1,6 +1,6 @@
 # clone
 
-A new Flutter project.
+THIS IS WHATSAPP CLONE.
 
 ## Getting Started
 
